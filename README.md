@@ -1,4 +1,4 @@
-# kaggle-glass-classification-nn-model  
+# kaggle-glass-classification-nn-model
 
 An analysis of kaggle glass dataset as well as building a neural network. 
 In this work Neural Network is built with considering optimized parameters 
